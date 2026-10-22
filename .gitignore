@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+breakfast_card.html
+breakfast_plan.md

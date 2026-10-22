@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>麦麦顺路早餐卡</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: #f7f3ea; display: flex; justify-content: center;
+    padding: 24px 12px; color: #33302a;
+  }
+  .card {
+    width: 420px; background: #fffdf7; border-radius: 20px;
+    box-shadow: 0 8px 30px rgba(120, 80, 20, .12); overflow: hidden;
+  }
+  .head {
+    background: linear-gradient(135deg, #ffc72c, #ffb200);
+    padding: 22px 24px 18px;
+  }
+  .head h1 { font-size: 20px; color: #5b3a00; }
+  .head .sub { font-size: 12px; color: #7a5200; margin-top: 4px; }
+  .store { padding: 14px 24px; border-bottom: 1px dashed #e8ddc4; font-size: 13px; }
+  .store b { color: #c00; }
+  .store .badge {
+    display: inline-block; background: #c00; color: #fff; border-radius: 4px;
+    font-size: 11px; padding: 1px 6px; margin-left: 6px;
+  }
+  .combo { padding: 14px 24px; border-bottom: 1px dashed #e8ddc4; }
+  .combo .label { font-size: 11px; color: #b8860b; margin-bottom: 6px; }
+  .combo .name { font-size: 15px; font-weight: 600; margin-bottom: 4px; }
+  .combo .meta { font-size: 12px; color: #8a7d5f; }
+  .combo .meta span { margin-right: 12px; }
+  .price { padding: 16px 24px; background: #fff8e6; }
+  .price .row { display: flex; justify-content: space-between; font-size: 13px; margin: 3px 0; }
+  .price .final { font-size: 18px; font-weight: 700; color: #c00; }
+  .hint { padding: 12px 24px; font-size: 12px; color: #6b5d3f; line-height: 1.7; }
+  .foot {
+    padding: 10px 24px 16px; font-size: 11px; color: #b3a680; text-align: center;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="head">
+    <h1>🍔 麦麦顺路早餐卡</h1>
+    <div class="sub">2026-10-22 · 通勤早餐，顺路不绕路</div>
+  </div>
+  <div class="store">
+    取餐门店：<b>麦当劳北京阜安西路餐厅</b><br>
+    <span style="color:#8a7d5f">阜通东大街1号院6号楼1层2109和2层2206号商铺 · 距住处 167m</span>
+  </div>
+    <div class="combo">
+    <div class="label">官方套餐 · 热量适中 · 极简</div>
+    <div class="name">大脆鸡扒麦满分组合</div>
+    <div class="meta"><span>🔥 361 kcal</span><span>💪 16g 蛋白质</span><span>¥13.5</span></div>
+  </div>
+  <div class="combo">
+    <div class="label">官方套餐 · 热量适中 · 极简</div>
+    <div class="name">猪柳麦满分组合</div>
+    <div class="meta"><span>🔥 308 kcal</span><span>💪 16g 蛋白质</span><span>¥17.0</span></div>
+  </div>
+  <div class="combo">
+    <div class="label">热量适中 · 极简</div>
+    <div class="name">大脆鸡扒麦满分</div>
+    <div class="meta"><span>🔥 361 kcal</span><span>💪 16g 蛋白质</span><span>¥11.5</span></div>
+  </div>
+  <div class="price">
+    <div class="row"><span>餐品原价</span><span>¥13.50</span></div>
+    
+    <div class="row final"><span>预计实付</span><span>¥13.50</span></div>
+  </div>
+  <div class="hint">💡 早餐供应时段 07:14-10:15，该门店支持预约下单：出门前在麦当劳 App 下预约单，到店出示取餐码即取，全程不排队，顺路拿了就走。</div>
+  <div class="foot">由 mcd-commute-breakfast 生成 · 价格与供应以麦当劳官方渠道为准</div>
+</div>
+</body>
+</html>

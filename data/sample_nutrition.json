@@ -1,0 +1,13 @@
+[
+  {"name": "猪柳蛋麦满分", "energyKcal": 320, "protein": 15.0, "fat": 12.0, "carbohydrate": 32.0, "sodium": 680},
+  {"name": "吉士蛋麦满分", "energyKcal": 290, "protein": 13.0, "fat": 11.0, "carbohydrate": 31.0, "sodium": 620},
+  {"name": "烟肉蛋麦满分", "energyKcal": 350, "protein": 16.0, "fat": 15.0, "carbohydrate": 32.0, "sodium": 820},
+  {"name": "板烧鸡腿麦满分", "energyKcal": 380, "protein": 18.0, "fat": 14.0, "carbohydrate": 36.0, "sodium": 790},
+  {"name": "皮蛋瘦肉粥", "energyKcal": 180, "protein": 8.0, "fat": 3.5, "carbohydrate": 28.0, "sodium": 720},
+  {"name": "热香饼(3块)", "energyKcal": 340, "protein": 7.0, "fat": 9.0, "carbohydrate": 58.0, "sodium": 480},
+  {"name": "脆薯饼", "energyKcal": 150, "protein": 1.5, "fat": 9.0, "carbohydrate": 16.0, "sodium": 290},
+  {"name": "油条(2根)", "energyKcal": 230, "protein": 4.0, "fat": 12.0, "carbohydrate": 26.0, "sodium": 380},
+  {"name": "优品豆浆(热)", "energyKcal": 90, "protein": 5.0, "fat": 2.5, "carbohydrate": 11.0, "sodium": 60},
+  {"name": "鲜煮咖啡(小)", "energyKcal": 5, "protein": 0.3, "fat": 0.0, "carbohydrate": 0.8, "sodium": 5},
+  {"name": "纯牛奶", "energyKcal": 130, "protein": 6.5, "fat": 7.0, "carbohydrate": 9.5, "sodium": 90}
+]

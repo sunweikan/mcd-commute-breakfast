@@ -1,0 +1,15 @@
+[
+  {"code": "BF001", "name": "猪柳蛋麦满分", "price": 9.5, "category": "早餐-麦满分", "tags": ["早餐"], "isBreakfast": true},
+  {"code": "BF002", "name": "吉士蛋麦满分", "price": 8.5, "category": "早餐-麦满分", "tags": ["早餐"], "isBreakfast": true},
+  {"code": "BF003", "name": "烟肉蛋麦满分", "price": 10.5, "category": "早餐-麦满分", "tags": ["早餐"], "isBreakfast": true},
+  {"code": "BF004", "name": "板烧鸡腿麦满分", "price": 11.5, "category": "早餐-麦满分", "tags": ["早餐"], "isBreakfast": true},
+  {"code": "BF005", "name": "皮蛋瘦肉粥", "price": 8.0, "category": "早餐-粥品", "tags": ["早餐"], "isBreakfast": true},
+  {"code": "BF006", "name": "热香饼(3块)", "price": 9.0, "category": "早餐-烘焙", "tags": ["早餐"], "isBreakfast": true},
+  {"code": "BF101", "name": "脆薯饼", "price": 6.0, "category": "早餐-小食", "tags": ["早餐"], "isBreakfast": true},
+  {"code": "BF102", "name": "油条(2根)", "price": 5.0, "category": "早餐-小食", "tags": ["早餐"], "isBreakfast": true},
+  {"code": "BF201", "name": "优品豆浆(热)", "price": 5.0, "category": "早餐-饮品", "tags": ["早餐"], "isBreakfast": true},
+  {"code": "BF202", "name": "鲜煮咖啡(小)", "price": 6.5, "category": "早餐-饮品", "tags": ["早餐"], "isBreakfast": true},
+  {"code": "BF203", "name": "纯牛奶", "price": 6.0, "category": "早餐-饮品", "tags": ["早餐"], "isBreakfast": true},
+  {"code": "LN001", "name": "巨无霸", "price": 24.0, "category": "汉堡", "tags": ["正餐"], "isBreakfast": false},
+  {"code": "LN002", "name": "麦辣鸡腿堡", "price": 17.0, "category": "汉堡", "tags": ["正餐"], "isBreakfast": false}
+]

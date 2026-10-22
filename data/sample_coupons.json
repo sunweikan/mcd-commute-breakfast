@@ -1,0 +1,20 @@
+[
+  {
+    "couponId": "CP20261022001",
+    "title": "早餐满15减3券",
+    "description": "早餐时段单笔满15元减3元，仅限到店取餐",
+    "validEndTime": "2026-10-31 23:59:59"
+  },
+  {
+    "couponId": "CP20261022002",
+    "title": "麦满分单品8折券",
+    "description": "麦满分系列单品享8折",
+    "validEndTime": "2026-10-25 23:59:59"
+  },
+  {
+    "couponId": "CP20261022003",
+    "title": "满30减8券",
+    "description": "全场单笔满30元减8元",
+    "validEndTime": "2026-11-15 23:59:59"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "storeId": "1101058",
+    "storeName": "麦当劳(望京SOHO店)",
+    "address": "北京市朝阳区望京街10号望京SOHO T1座1层",
+    "distance": 320,
+    "supportsLocker": true
+  },
+  {
+    "storeId": "1101077",
+    "storeName": "麦当劳(阜通东大街店)",
+    "address": "北京市朝阳区阜通东大街6号院1号楼",
+    "distance": 850,
+    "supportsLocker": false
+  },
+  {
+    "storeId": "1101091",
+    "storeName": "麦当劳(望京西园店)",
+    "address": "北京市朝阳区望京西园四区420号楼",
+    "distance": 1400,
+    "supportsLocker": false
+  }
+]
